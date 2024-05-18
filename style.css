@@ -1,0 +1,48 @@
+.header{
+    height: 140px;
+    width: 980px;
+    background: blue;
+    text-align: center;
+    font-size: 40px;
+    display: inline-block;
+    color: aliceblue;
+    margin: 15px;
+    
+}
+
+.sidebar{
+    height: 450px;
+    width: 270px;
+    background: green;
+    text-align: center;
+    font-size: 40px;
+    margin: 15px; 
+    color: aliceblue;
+    display: inline-block;
+ 
+
+    
+}
+.content{
+    height: 450px;
+    width: 690px;
+    background: rgb(128, 119, 0);
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    display: inline-block;
+    
+
+}
+
+.footer{
+    height: 140px;
+    width: 980px;
+    background: red;
+    text-align: center;
+    font-size: 40px;
+    display: inline-block;
+    color: aliceblue;
+    margin: 15px;
+    
+}
